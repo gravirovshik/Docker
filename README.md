@@ -1,4 +1,4 @@
-В этом репозитории тренировка по Docker.
+В этом репозитории практика по Docker.
 
 Ссылка: https://vladilen.notion.site/Docker-2021-a72201ec8573461c8a2e62e2fcf33aa3 
 
